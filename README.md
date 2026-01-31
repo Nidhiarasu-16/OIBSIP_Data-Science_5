@@ -1,7 +1,7 @@
 # Sales Prediction
 
 Project Overview :
-This project focuses on building a machine learning–based sales prediction system using Python. The objective is to predict future product sales based on advertising expenditure across different marketing channels. The project demonstrates a complete Data Science workflow, including data understanding, exploratory data analysis (EDA), data preparation, model training, evaluation, and prediction for custom advertising inputs.
+This project focuses on building a machine learning based sales prediction system using Python. The objective is to predict future product sales based on advertising expenditure across different marketing channels. The project demonstrates a complete Data Science workflow, including data understanding, exploratory data analysis (EDA), data preparation, model training, evaluation, and prediction for custom advertising inputs.
 
 Objectives :
 - To analyze the relationship between advertising expenditure and product sales
